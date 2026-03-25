@@ -44,7 +44,7 @@ The design is fully responsive, clean, modern, and includes smooth animations, a
 
 ### 📸 Preview
 
-![Portfolio Preview](https://via.placeholder.com/1200x600/0A66C2/FFFFFF?text=Portfolio+Preview)  
+https://aashish-chandra.vercel.app/
 <!-- Replace this with actual screenshots later (add them to assets/screenshots/) -->
 
 ---

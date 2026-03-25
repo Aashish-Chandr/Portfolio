@@ -42,7 +42,8 @@ nav {
 .nav-links {
   gap: 2rem;
   list-style: none;
-  font-size: 1.5rem;
+  font-size: 1rem;
+  font-weight: 300;
 }
 
 a {
@@ -59,7 +60,8 @@ a:hover {
 }
 
 .logo {
-  font-size: 2rem;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .logo:hover {
@@ -190,7 +192,7 @@ section {
 }
 
 .section__text__p2 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 
@@ -211,6 +213,11 @@ section {
 .icon {
   cursor: pointer;
   height: 2rem;
+}
+
+.icon1 {
+  cursor: pointer;
+  height: 1.5rem;
 }
 
 /* BUTTONS */
@@ -323,7 +330,7 @@ section {
 .experience-sub-title {
   color: rgb(85, 85, 85);
   font-weight: 600;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   margin-bottom: 2rem;
 }
 

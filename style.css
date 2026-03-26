@@ -437,3 +437,7 @@ footer {
 footer p {
   text-align: center;
 }
+
+.footerlast{
+  padding: 2rem;
+}

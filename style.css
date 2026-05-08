@@ -441,3 +441,32 @@ footer p {
 .footerlast{
   padding: 2rem;
 }
+.about-containers {
+  display: flex;
+  gap: 2rem;
+
+  overflow-x: auto;   /* Horizontal scroll */
+  overflow-y: hidden;
+  
+  padding-bottom: 1rem;
+  scroll-behavior: smooth;
+}
+
+/* Scrollbar Styling */
+
+.about-containers::-webkit-scrollbar {
+  height: 8px;
+}
+
+.about-containers::-webkit-scrollbar-thumb {
+  background: gray;
+  border-radius: 10px;
+}
+
+.about-containers::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+.color-container {
+  min-width: 350px;   /* Card width */
+  flex-shrink: 0;     /* Prevent shrinking */
+}
